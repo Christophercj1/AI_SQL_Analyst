@@ -1,8 +1,6 @@
 streamlit
-pandas
-sqlalchemy
-pymysql
 google-genai
+mysql-connector-python
+pandas
+matplotlib
 python-dotenv
-plotly
-sqlglot
